@@ -1,3 +1,5 @@
+[a link to this app in action!](http://emoreno619.github.io/jquery-calculator/)
+
 #Calculator Assignment
 
 Goal: Use jQuery to make the provided calculator markup function as a simple calculator
